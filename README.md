@@ -1,4 +1,5 @@
-## Hi there 👋
+##👋 Hi there, I'm Max
+My name is Maxim and I work around a data for 5 years. Nowadays I'm a Data Engineer.
 
 <!--
 **lsnginterests/lsnginterests** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
