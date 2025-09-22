@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73636&center=true&width=435&lines=Hello+there,+I'm+Max!;I'm+a+Data+Engineer)](https://git.io/typing-svg)
-
 ## <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30"> About Me  
 <div align="justify">
 I'm a Data Engineer at T-bank (ex. Tinkoff), focused on building and maintaining robust data pipelines and infrastructure. Passionate about turning complex data into actionable insights and solving challenging problems at scale.
@@ -24,9 +22,7 @@ I'm a Data Engineer at T-bank (ex. Tinkoff), focused on building and maintaining
 [![Codewars](https://www.codewars.com/users/ВАШ_USERNAME/badges/small)](https://www.codewars.com/users/ВАШ_USERNAME)
 
 ### 📂 Key projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Data Warehouse ETL Pipeline](https://github.com/username/project1)** | Designed and implemented a scalable ETL pipeline for processing financial transaction data. | `Apache Airflow` `Python` `PostgreSQL` `PySpark` |
+**[Data Warehouse ETL Pipeline](https://github.com/username/project1)** / Designed and implemented a scalable ETL pipeline for processing financial transaction data. / `Apache Airflow` `Python` `PostgreSQL` `PySpark` 
 
 ### 📫 How to reach me?  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lsnginterests)
