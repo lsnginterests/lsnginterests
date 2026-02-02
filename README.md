@@ -8,7 +8,7 @@ I'm a Data Engineer, focused on building and maintaining robust data pipelines a
 `Apache Airflow` `Apache Spark` `Kafka`
 
 **Languages & Databases**  
-`Python` `SQL` `PostgreSQL` `ClickHouse`
+`Python` `SQL` `PostgreSQL` `Greenplum` `ClickHouse`
 
 **Tools & Platforms**  
 `Git` `Linux` `Docker` `Kubernetes`
