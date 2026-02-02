@@ -18,7 +18,7 @@ Data Warehouse ETL Pipeline / Data Warehouse ETL Pipeline/ Data Warehouse ETL Pi
 
 ### Contact Me
 **Telegram:** [@lsnginterests](https://t.me/lsnginterests)  
-**LinkedIn:** [yourprofile](https://linkedin.com/in/yourprofile)  
+**LinkedIn:** [yourprofile](https://linkedin.com/in/maxim-golovlev)  
 
 ---
 <p align="center">
