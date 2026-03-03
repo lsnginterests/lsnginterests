@@ -1,7 +1,7 @@
-### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+I’m Max, a data engineer based in Russia. I enjoy building reliable data pipelines, optimizing query performance, and designing scalable data architectures that make analytics effortless.
 
-I’m Max, a data engineer based in Russia. I enjoy building reliable data pipelines, optimizing query performance, and designing scalable data architectures that make analytics effortless.  
-These days I’m focused on:
+### These days I’m focused on:
 - Python, SQL, Apache Spark
 - Apache Airflow, dbt, Kafka
 - Cloud data warehouses (Snowflake, BigQuery)
