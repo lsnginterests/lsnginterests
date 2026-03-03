@@ -1,4 +1,4 @@
-![ ](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hello there! 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="приветственный смайлик" style="width:50%; height:auto;"> Hello there! 
 
 I’m Max, a data engineer based in Russia. I enjoy building reliable data pipelines, optimizing query performance, and designing scalable data architectures that make analytics effortless.
 
